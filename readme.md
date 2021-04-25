@@ -6,9 +6,11 @@
 </style>
 
 # How to write a README file
+
 Welcome to my first website. The aim is to be introduced to HTML and CSS and learn all the basic syntax step by step.
 
-## planning phase:
+## Planning Phase
+
 1. Purpose of the project
 2. user stories
 3. Features
@@ -16,7 +18,7 @@ Welcome to my first website. The aim is to be introduced to HTML and CSS and lea
 5. Typography and color scheme
 6. wireframes
 
-## During and in the end:
+## During and in the end
 
 7. Technology
 8. testing
@@ -25,6 +27,6 @@ Welcome to my first website. The aim is to be introduced to HTML and CSS and lea
     * 8.3 fixed bugs
     * 8.4 supported screens and browsers
 9. Deployment
-    * 9.1 via gitpod</li>
-    * 9.2 via github pages</li> 
+    * 9.1 via gitpod
+    * 9.2 via github pages
 10. credits
